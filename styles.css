@@ -128,8 +128,7 @@ p {
     color: #777;
 }
 img {
-    max-width: 70%; /* Ensure the image doesn't exceed its container width */
-    border: 3px solid #007bff; /* Add a border around the image */
-    border-radius: 10px; /* Rounded corners for the image */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add a subtle shadow effect */
+    width: 50%; 
+    border: 3px solid #007bff;
+    border-radius: 10px;
 }
